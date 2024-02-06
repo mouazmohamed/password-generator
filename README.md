@@ -5,15 +5,7 @@ Vous pouvez accéder à mon site Web hébergé par Render : [Password Generator]
 ---
 
 ## Diagramme des cas d'utilisation (User Case Diagram) de mon site Web
-
-```plantuml
-left to right direction
-:Utilisateur: as Utilisateur
-package <uc>PasswordGenerator{
-    Utilisateur --- (Générer un mot de passe robuste aléatoirement)
-    Utilisateur --- (Copier le mot de passe généré)
-}
-```
+![user_case_diagram](Annexes/user_case.png)
 
 ---
 
